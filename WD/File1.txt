@@ -1,4 +1,4 @@
-Line1 (other local commit)
+Line1 (other server commit)
 Line2
 
 Line3
