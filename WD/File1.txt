@@ -1,10 +1,5 @@
 Line1 (other server commit)
 Line2
-<<<<<<< HEAD
-=======
-Line5 - Rachit
-Line4 - sneha
->>>>>>> 661b58d... Merge branch 'master' of https://github.com/alokste/test.git
 Line3
 Line4 added by Alok
 
